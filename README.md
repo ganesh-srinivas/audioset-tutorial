@@ -10,6 +10,8 @@ AudioSet consists of an expanding ontology of 632 audio event classes and a coll
 
 Instead of raw audio, every example is made available as a sequence of 128-dimension embeddings (one embedding for every second of audio). The embeddings were obtained after passing the log-scaled mel-spectrograms of the audio waveform through a deep convolutional neural network trained on millions of audio clips (_VGGish_).
 
+# Where to find further information
+Creators/users of the dataset can be found at [audioset-users](https://groups.google.com/forum/#!forum/audioset-users).
 
  
 
